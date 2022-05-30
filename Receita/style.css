@@ -4,7 +4,6 @@
     box-sizing: border-box;
     color: #39393A;
     image.png
-    
 }
 
 main {
@@ -23,8 +22,8 @@ body {
 
 #img {
     width: 100%;
-    height: auto;
-    object-fit: contain;
+    height: 250px;
+    object-fit: cover;
     border-radius: 20%;
     padding: 10px;
 }
