@@ -379,4 +379,36 @@ left: 40px;
     position: absolute;
     left: 5px;
     top: 0px;
+    font-weight: bold;
+}
+
+#educacao {
+position: absolute;
+width: 348px;
+height: 352px;
+left: 40px;
+top: 1357px;
+}
+
+#eductit {
+position: absolute;
+left: 40px;
+}
+
+#cont1 {
+position: absolute;
+left: 50px;
+top: 90px;
+text-align: left;
+line-height: 20px;
+width: 700px;
+}
+
+#cont2 {
+    position: absolute;
+    left: 50px;
+    top: 180px;
+    text-align: left;
+    line-height: 20px;
+    width: 700px;
 }
