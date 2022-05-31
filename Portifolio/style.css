@@ -3,6 +3,8 @@
     --text-color: #837E9F;
     --bg-cards: #302F3D;
     --bg-techs: #CB92B1;
+    font-family: 'Odibee Sans', cursive;
+    font-family: 'Poppins', sans-serif
   }
 
   body {
@@ -73,4 +75,33 @@ top: 40px;
 background: #302F3D;
 box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 border-radius: 20px;
+}
+
+#projetos {
+position: absolute;
+width: 121px;
+height: 26px;
+left: 25px;
+top: 5px;
+
+font-family: 'Merriweather Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+color: #837E9F;
+}
+
+#vertodos {
+position: absolute;
+width: 71px;
+height: 18px;
+left: 869px;
+top: 17px;
+font-family: 'Merriweather Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #837E9F;
 }
