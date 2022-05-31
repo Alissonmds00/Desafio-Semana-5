@@ -405,12 +405,12 @@ width: 700px;
 }
 
 #cont2 {
-    position: absolute;
-    left: 60px;
-    top: 170px;
-    text-align: left;
-    line-height: 20px;
-    width: 700px;
+position: absolute;
+left: 60px;
+top: 170px;
+text-align: left;
+line-height: 20px;
+width: 700px;
 }
 
 #tpostagem {
@@ -437,7 +437,42 @@ line-height: 25px;
 }
 
 #credito {
-    width: 600px;
-    padding: 30px;
-    text-align: center;
+width: 600px;
+padding: 30px;
+text-align: center;
+}
+
+#fotogit {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+#projetogitlink {
+position: absolute;
+left: 60px;
+top: 20px;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 25px;
+color: #837E9F;
+}
+
+#descpost {
+position: absolute;
+top: 50px;
+left: 20px;
+}
+
+#fav {
+position: absolute;
+top: 140px;
+left: 20px;
+}
+
+#forks {
+position: absolute;
+top: 140px;
+left: 100px;   
 }
