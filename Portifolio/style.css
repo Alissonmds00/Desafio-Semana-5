@@ -361,7 +361,22 @@ left: 40px;
 
 #trainee {
     position: absolute;
-    left: 60px;
-    top: 60px;
+    left: 55px;
+    top: 80px;
+
 }
 
+#desctrainee {
+    position: absolute;
+    left: 10px;
+    top: 5px;
+    text-align: left;
+    line-height: 20px;
+    width: 700px;
+}
+
+#traineet {
+    position: absolute;
+    left: 5px;
+    top: 0px;
+}
