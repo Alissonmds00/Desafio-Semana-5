@@ -414,19 +414,30 @@ width: 700px;
 }
 
 #tpostagem {
-    position: absolute;
-    top: 20px;
-    left: 175px;
+position: absolute;
+top: 15px;
+left: 175px;
+font-family: 'Merriweather Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
 }
 
 #data {
     position: absolute;
-    top: 45px;
+    top: 60px;
     left: 175px;
 }
 
 #mensagempost {
     position: absolute;
-    top: 85px;
+    top: 95px;
     left: 175px;
+}
+
+#credito {
+    width: 600px;
+    padding: 30px;
+    text-align: center;
 }
