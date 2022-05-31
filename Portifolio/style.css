@@ -105,3 +105,107 @@ font-size: 14px;
 line-height: 18px;
 color: #837E9F;
 }
+
+#caixa3 {
+    position: absolute;
+    width: 461px;
+    height: 186px;
+    left: 448px;
+    top: 157px;
+}
+
+#caixa4 {
+position: absolute;
+width: 461px;
+height: 186px;
+left: 939px;
+top: 157px;
+}
+
+#caixa6 {
+    position: absolute;
+width: 952px;
+height: 201px;
+left: 448px;
+top: 489px;
+}
+
+.caixas {
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+#fotopost {
+    position: absolute;
+width: 128px;
+height: 128px;
+left: 30px;
+top: 38px;
+border-radius: 50%;
+}
+
+#links {
+position: absolute;
+width: 348px;
+height: 348px;
+left: 40px;
+top: 362px;
+
+background: #302F3D;
+box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+border-radius: 20px;
+}
+
+#logo1 {
+top: 28px;
+}
+/*de 44 em 44*/
+#logo2 {
+top: 72px;
+}
+
+#logo3 {
+top: 116px
+}
+
+#logo4 {
+top: 160px
+}
+
+#logo5 {
+top: 204px;
+}
+
+#logo6 {
+top: 248px;
+}
+
+#logo7 {
+top: 292px;
+}
+
+#credito {
+position: absolute;
+width: 206px;
+height: 19px;
+left: 617px;
+top: 1728px;
+font-family: 'Merriweather Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #837E9F;
+}
+
+.logo {
+position: absolute;
+width: 24px;
+height: 24px;
+left: 35px;
+}
+
+a {
+    text-decoration: none;
+}
