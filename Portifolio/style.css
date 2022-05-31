@@ -8,3 +8,69 @@
   body {
     background-color: #22212C;
   }
+
+#caixa1 {
+    position: absolute;
+    width: 348px;
+    height: 292px;
+    left: 40px;
+    top: 40px;
+    
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    
+}
+
+.profpic {
+    border: 2px solid #00FF00;
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    left: 110px;
+    top: 20px;
+    border-radius: 50%;
+    align-items: center;
+}
+
+.nome {
+    position: absolute;
+    width: 196px;
+    height: 26px;
+    left: 106px;
+    top: 150px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 29px;
+
+    color: #837E9F;
+}
+
+.cargo {
+position: absolute;
+width: 128px;
+height: 17px;
+left: 130px;
+top: 196px;
+
+font-family: 'Merriweather Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 16px;
+color: #837E9F;
+}
+
+#caixa2 {
+    position: absolute;
+width: 952px;
+height: 86px;
+left: 448px;
+top: 40px;
+
+background: #302F3D;
+box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+border-radius: 20px;
+}
