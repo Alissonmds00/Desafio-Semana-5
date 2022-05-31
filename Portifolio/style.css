@@ -7,7 +7,18 @@
     font-family: 'Poppins', sans-serif
   }
 
-  body {
+main {
+font-family: 'Merriweather Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+
+color: #837E9F;
+
+}
+
+body {
     background-color: #22212C;
     position: absolute;
   }
@@ -74,8 +85,7 @@ border-radius: 20px;
 
 #projetos {
 position: absolute;
-width: 121px;
-height: 26px;
+
 left: 29px;
 top: 5px;
 
@@ -317,4 +327,41 @@ top: 65px;
     background-color: #CB92B1;
     text-align: center;
     border-radius: 18%;
+    color: #22212C;
+    font-size: 13px;
+    line-height: 23px;
 }
+
+#caixa5 {
+position: absolute;
+width: 952px;
+height: 86px;
+left: 448px;
+top: 373px;
+}
+
+#posts {
+    position: absolute;
+    left: 29px;
+    top: 10px;
+}
+
+#experiencias {
+position: absolute;
+width: 348px;
+height: 349px;
+left: 40px;
+top: 978px;
+}
+
+#titexp {
+position: absolute;
+left: 40px;
+}
+
+#trainee {
+    position: absolute;
+    left: 60px;
+    top: 60px;
+}
+
