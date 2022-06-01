@@ -5,23 +5,20 @@
     --bg-techs: #CB92B1;
     font-family: 'Odibee Sans', cursive;
     font-family: 'Poppins', sans-serif
-  }
+}
 
 main {
-font-family: 'Merriweather Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 13px;
-line-height: 16px;
-
-color: #837E9F;
-
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #837E9F;
 }
 
 body {
     background-color: #22212C;
-    position: absolute;
-  }
+}
 
 #caixa1 {
     width: 348px;
@@ -57,58 +54,57 @@ body {
 }
 
 .cargo {
-position: absolute;
-width: 128px;
-height: 17px;
-left: 130px;
-top: 196px;
+    position: absolute;
+    width: 128px;
+    height: 17px;
+    left: 130px;
+    top: 196px;
 
-font-family: 'Merriweather Sans';
-font-style: normal;
-font-weight: 300;
-font-size: 13px;
-line-height: 16px;
-color: #837E9F;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 16px;
+    color: #837E9F;
 }
 
 #caixa2 {
     position: absolute;
-width: 952px;
-height: 86px;
-left: 448px;
-top: 40px;
-
-background: #302F3D;
-box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-border-radius: 20px;
+    width: 952px;
+    height: 86px;
+    left: 448px;
+    top: 40px;
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
 }
 
 #projetos {
-position: absolute;
+    position: absolute;
 
-left: 29px;
-top: 5px;
+    left: 29px;
+    top: 5px;
 
-font-family: 'Merriweather Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 25px;
-color: #837E9F;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #837E9F;
 }
 
 #vertodos {
-position: absolute;
-width: 71px;
-height: 18px;
-left: 869px;
-top: 17px;
-font-family: 'Merriweather Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 18px;
-color: #837E9F;
+    position: absolute;
+    width: 71px;
+    height: 18px;
+    left: 869px;
+    top: 35px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #837E9F;
 }
 
 #caixa3 {
@@ -119,18 +115,18 @@ color: #837E9F;
 }
 
 #caixa4 {
-position: absolute;
-width: 461px;
-height: 186px;
-left: 939px;
-top: 157px;
+    position: absolute;
+    width: 461px;
+    height: 186px;
+    left: 939px;
+    top: 157px;
 }
 
 #caixa6 {
-width: 952px;
-height: 201px;
-left: 448px;
-top: 489px;
+    width: 952px;
+    height: 201px;
+    left: 448px;
+    top: 489px;
 }
 
 .caixas {
@@ -142,91 +138,90 @@ top: 489px;
 
 #fotopost {
     position: absolute;
-width: 128px;
-height: 128px;
-left: 30px;
-top: 38px;
-border-radius: 50%;
+    width: 128px;
+    height: 128px;
+    left: 30px;
+    top: 38px;
+    border-radius: 50%;
 }
 
 #links {
-position: absolute;
-width: 348px;
-height: 348px;
-left: 40px;
-top: 362px;
+    position: absolute;
+    width: 348px;
+    height: 348px;
+    left: 40px;
+    top: 362px;
 
-background: #302F3D;
-box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-border-radius: 20px;
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
 }
 
 #logo1 {
-top: 28px;
+    top: 28px;
 }
 
 #logo2 {
-top: 72px;
+    top: 72px;
 }
 
 #logo3 {
-top: 116px
+    top: 116px
 }
 
 #logo4 {
-top: 160px
+    top: 160px
 }
 
 #logo5 {
-top: 204px;
+    top: 204px;
 }
 
 #logo6 {
-top: 248px;
+    top: 248px;
 }
 
 #logo7 {
-top: 292px;
+    top: 292px;
 }
 
 #credito {
-position: absolute;
-width: 206px;
-height: 19px;
-left: 617px;
-top: 1728px;
-font-family: 'Merriweather Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 20px;
-color: #837E9F;
+    position: absolute;
+    width: 206px;
+    height: 19px;
+    left: 617px;
+    top: 1728px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #837E9F;
 }
 
 .logo {
-position: absolute;
-width: 24px;
-height: 24px;
-left: 35px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 35px;
 }
 
 a {
-text-decoration: none;
+    text-decoration: none;
 }
 
 .link {
     position: absolute;
-width: 200px;
-height: 16px;
-left: 90px;
+    width: 200px;
+    height: 16px;
+    left: 90px;
 
-font-family: 'Merriweather Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 13px;
-line-height: 16px;
-
-color: #837E9F;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #837E9F;
 }
 
 #link1 {
@@ -250,7 +245,7 @@ color: #837E9F;
 }
 
 #link6 {
-    top: 250px;   
+    top: 250px;
 }
 
 #link7 {
@@ -258,52 +253,52 @@ color: #837E9F;
 }
 
 #tecnologias {
-position: absolute;
-width: 348px;
-height: 208px;
-left: 40px;
-top: 740px;
+    position: absolute;
+    width: 348px;
+    height: 208px;
+    left: 40px;
+    top: 740px;
 }
 
 .linguagens {
-position: absolute;
-width: 86px;
-height: 24px;
-left: 272px;
-top: 855px;
+    position: absolute;
+    width: 86px;
+    height: 24px;
+    left: 272px;
+    top: 855px;
 }
 
 #tecn {
-position: absolute;
-width: 121px;
-height: 26px;
-left: 30px;
-top: 3px;
+    position: absolute;
+    width: 121px;
+    height: 26px;
+    left: 30px;
+    top: 3px;
 }
 
 .tit {
-font-family: 'Merriweather Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 25px;
-color: #837E9F;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #837E9F;
 }
 
 #ling1 {
-position: absolute;
-width: 86px;
-height: 24px;
-left: 30px;
-top: 65px;
+    position: absolute;
+    width: 86px;
+    height: 24px;
+    left: 30px;
+    top: 65px;
 }
 
 #ling2 {
-position: absolute;
-width: 86px;
-height: 24px;
-left: 130px;
-top: 65px;
+    position: absolute;
+    width: 86px;
+    height: 24px;
+    left: 130px;
+    top: 65px;
 
 }
 
@@ -313,7 +308,7 @@ top: 65px;
     height: 24px;
     left: 230px;
     top: 65px;
-    }
+}
 
 #ling4 {
     position: absolute;
@@ -321,7 +316,7 @@ top: 65px;
     height: 24px;
     left: 30px;
     top: 110px;
-    }
+}
 
 .linguagens {
     background-color: #CB92B1;
@@ -333,11 +328,11 @@ top: 65px;
 }
 
 #caixa5 {
-position: absolute;
-width: 952px;
-height: 86px;
-left: 448px;
-top: 373px;
+    position: absolute;
+    width: 952px;
+    height: 86px;
+    left: 448px;
+    top: 373px;
 }
 
 #posts {
@@ -347,16 +342,16 @@ top: 373px;
 }
 
 #experiencias {
-position: absolute;
-width: 348px;
-height: 349px;
-left: 40px;
-top: 978px;
+    position: absolute;
+    width: 348px;
+    height: 349px;
+    left: 40px;
+    top: 978px;
 }
 
 #titexp {
-position: absolute;
-left: 40px;
+    position: absolute;
+    left: 40px;
 }
 
 #trainee {
@@ -383,45 +378,45 @@ left: 40px;
 }
 
 #educacao {
-position: absolute;
-width: 348px;
-height: 352px;
-left: 40px;
-top: 1357px;
+    position: absolute;
+    width: 348px;
+    height: 352px;
+    left: 40px;
+    top: 1357px;
 }
 
 #eductit {
-position: absolute;
-left: 40px;
+    position: absolute;
+    left: 40px;
 }
 
 #cont1 {
-position: absolute;
-left: 60px;
-top: 70px;
-text-align: left;
-line-height: 20px;
-width: 700px;
+    position: absolute;
+    left: 60px;
+    top: 70px;
+    text-align: left;
+    line-height: 20px;
+    width: 700px;
 }
 
 #cont2 {
-position: absolute;
-left: 60px;
-top: 170px;
-text-align: left;
-line-height: 20px;
-width: 700px;
+    position: absolute;
+    left: 60px;
+    top: 170px;
+    text-align: left;
+    line-height: 20px;
+    width: 700px;
 }
 
 #tpostagem {
-position: absolute;
-top: 15px;
-left: 175px;
-font-family: 'Merriweather Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 25px;
+    position: absolute;
+    top: 15px;
+    left: 175px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
 }
 
 #data {
@@ -437,9 +432,9 @@ line-height: 25px;
 }
 
 #credito {
-width: 600px;
-padding: 30px;
-text-align: center;
+    width: 600px;
+    padding: 30px;
+    text-align: center;
 }
 
 #fotogit {
@@ -449,30 +444,55 @@ text-align: center;
 }
 
 #projetogitlink {
-position: absolute;
-left: 60px;
-top: 20px;
-font-style: normal;
-font-weight: 300;
-font-size: 20px;
-line-height: 25px;
-color: #837E9F;
+    position: absolute;
+    left: 60px;
+    top: 20px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    color: #837E9F;
 }
 
 #descpost {
-position: absolute;
-top: 50px;
-left: 20px;
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #837E9F;
+    
 }
 
 #fav {
-position: absolute;
-top: 140px;
-left: 20px;
+    position: absolute;
+    top: 140px;
+    left: 20px;
 }
 
 #forks {
-position: absolute;
-top: 140px;
-left: 100px;   
+    position: absolute;
+    top: 140px;
+    left: 100px;
+}
+
+.num {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    color: #837E9F;
+    position: absolute;
+}
+
+#numero1 {
+    top: 145px;
+    left: 45px;
+}
+
+#numero2 {
+    top: 145px;
+    left: 125px;
 }
